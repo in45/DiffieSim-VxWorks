@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a simple implementation of the Diffie-Hellman key exchange protocol using VxWorks real-time operating system. The simulation involves two tasks, `taskAlice` and `taskBob`, which communicate over message queues to exchange public keys and compute a shared secret.
+DiffieSim project demonstrates a simulation of the Diffie-Hellman key exchange protocol using VxWorks real-time operating system. The implementation involves two tasks, `taskAlice` and `taskBob`, which communicate over message queues to exchange public keys and compute a shared secret.
 
 ## Key Features
 
